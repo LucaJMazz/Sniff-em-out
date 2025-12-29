@@ -1,0 +1,176 @@
+-Food and Drinks
+Do you think this item would be better fried or boiled?
+What meal is this item typically eaten at?
+Is this item commonly found in desserts?
+How do you typically store this item?
+Does this item go well with toast?
+Would this item be part of a vegetarian meal?
+Can this item be used in baking?
+Is this a common ingredient in savory dishes?
+Do you think this item is healthy?
+How many of these do you think you could eat in one sitting?
+Would you serve this item raw?
+How many different ways can you prepare this item?
+If this was a flavour of icecream, would you enjoy it?
+How many times have you had this item in your life?
+What would your reaction be to finding out this is the only food you could eat for the rest if your life?
+-Movies
+Do you think this movie is better watched alone or with friends?
+If you had to choose one, would you say this movie or more funny or more dramatic?
+How many times have you watched this movie?
+Would this movie be in your top 50?
+Do you think this movie is too long or too short?
+Would you recommend this movie to your mom?
+Is this the kind of movie you’d rewatch multiple times?
+Would you say this movie have a happy or sad ending?
+Do you think the soundtrack of this movie is memorable?
+Would this movie still hold up in 30 years?
+Would you watch this movie with your family?
+Do you think this movie is popular and well liked?
+What would your reaction be to finding out this is the only movie you could watch for the rest if your life?
+Would this movie work as a stage play?
+What is this movies biggest strength?
+-Celebrities
+Do you think this person is more famous than 99% of celebrities
+Would you say this celebrity is well-known internationally?
+Is this person often in the news?
+Do you think this celebrity is more popular among younger or older audiences?
+Would you recognize this person immediately in public?
+Do you think this celebrity has won major awards?
+Has this celebrity been active for a long time or are they relatively new to fame?
+Do you think this celebrity has a big social media following?
+Would you say this celebrity is controversial or well-liked by most people?
+Would you say you enjoy this celebrities work?
+Would you consider this celebrity a trendsetter?
+If you had the option to punch this celebrity for fun, would you do it?
+If you were stuck on an island with this celebrity, what would your reaction be?
+Would you say this celebrity has a good fashion sense?
+Would this celebrity be in the top 10 celebrities you would want to meet?
+-Shows
+Do you think this show is more popular with younger or older audiences?
+Is this the kind of show you’d binge-watch or watch weekly?
+How many episodes of this show have you seen?
+Do you think this show is more drama or comedy?
+Do you think this show been on air for a long time, or is it relatively new?
+Would you recommend this show to someone who likes action shows?
+Is the setting of this show realistic or more fantasy/sci-fi?
+If this show was never able to be watched again, how would you feel?
+Is this show the type to get better as it goes on or peak early?
+Would you watch this show with your family or by yourself?
+Do you like the protagonist of this show?
+Would you say the show’s special effects are impressive or minimal?
+Is this show more episodic or does it follow a continuous storyline?
+Would you say this show has a strong fanbase or cult following?
+If this show was the only thing on TV, would you be happy to watch it?
+-Animals
+Would you say this animal is commonly kept as a pet?
+If you were trapped in a locked room with this animal, what would your reaction be?
+On a scale from 1-10, how would you rate its size?
+Would you pet this animal if you saw it in the wild?
+Would you own this pet if you could?
+Would you be able to beat this animal in a race?
+Would you be able to befriend this animal?
+Is this animal often featured in documentaries or nature shows?
+Do you think this animal could be dangerous to humans?
+Would you consider this animal cute or more intimidating?
+Would you be able to beat this animal in a hand to hand combat arena?
+Do you think this animal is more active during the day or night?
+Do you think a 1 year old child know what this animal is?
+Would you eat this animal if served at a restaurant?
+If this animal was in a zoo, would it be a popular attraction?
+-Sports
+Do you think this sport is more fun to watch or to play?
+Would you rather play this sport in a team or solo?
+Do you believe this sport has the most exciting championship events?
+In your opinion, does this sport require more skill or strategy?
+Would you say this sport is more enjoyable to watch in person or on TV?
+Do you think this sport is overrated or underrated compared to others?
+If you had to choose, would you prefer to attend a game or participate in it?
+Do you find this sport to be more thrilling or relaxing?
+Do you think you would do well if you played this sport professionally?
+Do you think this sport has the best fan culture?
+In your view, is this sport more challenging than most people realize?
+Would you say this sport has the best athletes, in terms of physical ability?
+Do you think this sport is more popular among certain age groups?
+If you could master any sport, would this be your top choice?
+Do you feel that this sport is more exciting during the regular season or playoffs?
+-Famous Landmarks
+Do you think this landmark is more impressive in photos or in person?
+Would you say this landmark is more popular for its history or its architecture?
+Do you believe this landmark is a must-visit for travelers?
+In your opinion, does this landmark represent its city or country well?
+Would you prefer to visit this landmark during the day or at night?
+Do you think this landmark is overrated or deserving of its fame?
+If you could spend a day exploring this landmark, would you enjoy it?
+Do you find this landmark more fascinating because of its size or its details?
+Would you say this landmark is better appreciated from afar or up close?
+Do you think this landmark has a good story behind it?
+In your view, is this landmark more famous for its beauty or its cultural significance?
+Would you say this landmark attracts more locals or tourists?
+Do you think visiting this landmark would be more fun with friends or family?
+If this landmark was part of a movie, would you want to see it featured prominently?
+Do you feel that this landmark has inspired other artists or architects?
+-Video Games
+Do you think this game is more enjoyable solo or with friends?
+Would you say this game has a better storyline or gameplay mechanics?
+Do you believe this game is more challenging than most people think?
+In your opinion, does this game have a good balance between difficulty and fun?
+Would you prefer to play this game on a console or PC?
+Do you think this game is more popular for its graphics or its gameplay?
+What would your reaction be to finding out this is the only game you could play for the rest if your life?
+Do you find this game more engaging because of its characters or its world?
+Would you say this game has a strong community of players?
+Do you think this game is underrated or overrated compared to others in its genre?
+In your view, is this game better played in short bursts or longer sessions?
+Would you say this is a top 10 game?
+Do you think this game would make a good movie adaptation?
+If you had to recommend this game to a friend, what would you highlight about it?
+Do you feel this game has influenced the gaming industry in any way?
+-Brands
+Do you think this brand is more known for quality or affordability?
+Would you say this brand has a strong presence on social media?
+In your opinion, does this brand have a reputation for innovation?
+Would you prefer to buy products from this brand over others?
+Do you think this brand appeals more to a younger or older audience?
+If you had to choose, would you say this brand is more stylish or practical?
+Do you believe this brand has good customer service?
+Would you say this brand is more popular in certain countries or worldwide?
+In your view, is this brand known for sustainability or ethical practices?
+Do you think this brand’s advertising is effective?
+Would you consider this brand a luxury brand?
+Do you feel this brand has successfully rebranded itself over time?
+If this brand was a person, how would you describe its personality?
+Would you say this brand has the best reputation among its competitors?
+Do you think this brand has a memorable logo or slogan?
+-Books
+Do you think this book is more enjoyable to read alone or in a book club setting?
+Would you say this book excels more in its storytelling or in its writing style?
+Do you believe this book is more thought-provoking than most people realize?
+In your opinion, does this book strike a good balance between complexity and readability?
+Would you prefer reading this book as a physical copy or an e-book?
+Do you think this book is more popular because of its characters or its themes?
+What would your reaction be if this were the only book you could read for the rest of your life?
+Do you find this book more compelling because of its protagonist or its setting?
+Would you say this book has a strong community of readers and fans?
+Do you think this book is underrated or overrated compared to others in its genre?
+In your view, is this book better enjoyed in small doses or in long, immersive reading sessions?
+Would you consider this book one of the top 10 books you’ve ever read?
+Do you think this book would make a good movie or TV adaptation?
+If you had to recommend this book to a friend, what aspects of it would you emphasize?
+Do you feel this book has had any significant impact on literature or its genre?
+-Countries
+Would you say this country has excellent food compared to others?
+Would you say this country is a popular travel destination?
+Would you live in this country for the rest of your life?
+Would you prefer this countrys climate to your own?
+Do you believe this country is more famous for its food or its landmarks?
+If you could visit this country, how long could you stay before you get bored?
+Do you think this country has a friendly reputation among tourists?
+Would you describe the people of this country as more traditional or modern?
+In your view, does this country have a strong influence on global culture?
+Would you say this country is popular in one specific sport?
+Would you say this country has a diverse population?
+If this country were to have a signature drink, what do you think it would be?
+Do you feel this country has unique customs or traditions that stand out?
+Would you say this country is more developed or developing?
+Do you think this country has a strong national identity?

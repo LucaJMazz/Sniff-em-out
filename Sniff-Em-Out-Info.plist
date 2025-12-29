@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>ProhibitionTest-Lines.otf</string>
+		<string>ProhibitionTest-LinesOblique.otf</string>
+		<string>ProhibitionTest-Oblique.otf</string>
+		<string>ProhibitionTest-Regular.otf</string>
+		<string>ProhibitionTest-Rough.otf</string>
+		<string>ProhibitionTest-RoughOblique.otf</string>
+	</array>
+</dict>
+</plist>
